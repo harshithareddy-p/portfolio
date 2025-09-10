@@ -5,9 +5,6 @@
 - A responsive artwork gallery that highlights selected pieces.
 - A timeline of education, freelancing, experience.
 
-## Screenshot
-![Homepage]()
-
 ## The website is built using:
 - HTML5
 - CSS3
